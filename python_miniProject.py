@@ -1,4 +1,3 @@
-# app.py
 import streamlit as st
 import yfinance as yf
 import matplotlib.pyplot as plt
@@ -63,3 +62,4 @@ except Exception as e:
 # Footer
 st.markdown("---")
 st.markdown("Made with ❤️ using Streamlit, Matplotlib, and yfinance")
+
